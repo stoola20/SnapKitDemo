@@ -1,0 +1,7 @@
+# rules
+--enable blankLineAfterImports
+--disable unusedArguments,wrapMultilineStatementBraces
+
+# file options
+--exclude Pods
+
